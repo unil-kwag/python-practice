@@ -3,3 +3,6 @@ import pandas as pd
 
 df = arange(5)
 df
+
+df1 = arange(10)
+df1
