@@ -1,8 +1,12 @@
 import numpy as np
 import pandas as pd
+import keras
 
-df = arange(5)
+df = np.arange(5)
 df
 
-df1 = arange(10)
+df1 = np.arange(10)
 df1
+
+df2 = np.arange(15)
+df2
