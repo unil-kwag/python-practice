@@ -25,4 +25,8 @@ sc.fit(X_train)
 X_train_std = sc.transform(X_train)
 X_test_Std = sc.transform(X_test)
 
-# 
+# 훈
+def fit(self, X, y):
+rgen = np.random.RandomState*self.random_state)
+self.w_=rgen.normal(loc=0.0,scale=0.01,
+                    size=1+X.shape[1]
