@@ -32,3 +32,4 @@ self.w_=rgen.normal(loc=0.0,scale=0.01,
                     size=1+X.shape[1]
 
 # 연습1
+def fit1(self, X, y):
