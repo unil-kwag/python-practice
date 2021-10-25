@@ -36,3 +36,6 @@ def fit1(self, X, y):
 
 # 연습 2
 def fit2(self, X, y):
+
+# 연습 3
+def fit3(self, X, y):
