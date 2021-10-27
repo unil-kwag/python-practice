@@ -33,9 +33,10 @@ self.w_=rgen.normal(loc=0.0,scale=0.01,
 
 # 연습1
 def fit1(self, X, y):
-
+  x = np.arange(5)
 # 연습 2
 def fit2(self, X, y):
-
+  x = np.arange(6)
 # 연습 3
 def fit3(self, X, y):
+  x = np.arange(7)
