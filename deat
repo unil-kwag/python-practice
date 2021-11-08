@@ -56,4 +56,5 @@ def fit3(self, X, y):
 
 # 연습 4
 def fit4(self, X, y):
-
+  x = np.arange(9)
+  y = np.arange(7)
