@@ -4,6 +4,7 @@ import tensorflow as tf
 import keras
 
 import random
+import requests
 
 df = np.arange(5)
 df
