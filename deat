@@ -68,3 +68,4 @@ def fit5(self, X, y):
 # 연습 6
 def fit5(self,X,y)
   x = np.arange(1)
+  y = np.arange(2)
