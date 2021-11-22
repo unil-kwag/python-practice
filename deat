@@ -74,3 +74,4 @@ def fit5(self,X,y)
 
 # 알고리즘 학습 1 
 x =
+y = 
