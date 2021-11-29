@@ -73,6 +73,6 @@ def fit5(self,X,y)
   y = np.arange(2)
 
 # 알고리즘 학습 1 
-x = f
+x = f + g
 y = h
 z = k
