@@ -77,4 +77,5 @@ x = f + g
 y = h + i
 z = 
 
-x=np.arange(5)
+x = np.arange(5)
+y
