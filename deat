@@ -78,4 +78,4 @@ y = h + i
 z = 
 
 x = np.arange(5)
-y
+y = np.arange(10)
