@@ -81,4 +81,4 @@ x = np.arange(5)
 y = np.arange(10)
 
 # 알고리즘 학습 2
-x
+x, y
