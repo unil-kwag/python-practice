@@ -83,3 +83,5 @@ y = np.arange(10)
 # 알고리즘 학습 2
 x, y, z
 f, g, h
+
+x+f
