@@ -15,6 +15,7 @@ df1
 
 df2 = np.arange(15)
 df2
+df1
 
 df + df1 + df2
 
