@@ -37,6 +37,7 @@ hi
 from sklearn.preprocessing import StandardScaler
 hello
 world
+scaler = hi + hell + world
 
 sc = StandardScaler()
 sc.fit(X_train)
